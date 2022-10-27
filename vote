@@ -1,0 +1,10 @@
+#eligible to vote 
+
+age = int(input("enter your age : "))
+#taking input from the user 
+
+if(age>=18):
+    print("you are eligible to vote")
+else:
+    print("you are not eligible")
+#using decision control statements 
